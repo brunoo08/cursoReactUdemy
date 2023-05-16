@@ -52,3 +52,12 @@ Repository created to save my React course that I'm taking on Udemy;
     - src: ONDE VAMOS PROGAMAR AS NOSSAS APPS;
     - src/index.js: ARQUIVO DE INICIALIZAÇÃO DO REACT;
     - src/App.js: COMPONENTE PRINCIPAL DA APLICAÇÃO;
+
+======================== EMMET ====================================
+
+- emmet É UMA EXTENSÃO NATIVA DO VS CODE QUE AJUDA A ESCREVER HTML MAIS RAPIDO;
+- PORÉM ELA NÃO VEM CONFIGURADA PARA O REACT;
+- TEMOS QUE ACESSAR:
+    - file > settings > extensions > procurar por Emmet
+- LÁ, VAMOS INCLUIR A LINGUAGEM: 
+    - javascript - javascriptreact
