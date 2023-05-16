@@ -1,5 +1,6 @@
 # cursoReactUdemy
 Repository created to save my React course that I'm taking on Udemy;
+Rpository reference: https://github.com/matheusbattisti/curso_react
 
 ======================== O QUE É O REACT ==========================
 
