@@ -35,3 +35,11 @@ Repository created to save my React course that I'm taking on Udemy;
     - node -v
     - npm -v
 - NOTE QUE OS BINÁRIOS PRECISAM ESTAR NO path, ESTE PASSO ESTA NA INSTALAÇÃO DO NODE;
+
+======================== HELLO WORLD EM REACT =====================
+
+- PARA CRIAR AS NOSSAS APLÇICAÇÕES EM REACT VAMOS UTILIZAR UM EXECUTO DE SCRIPTS DO NODE, QUE É O npx;
+- COM O COMANDO:
+    - npx create-react-app <nome> 
+- TEMOS UMA NOVA APLICAÇÃO SENDO GERADA, PODEMOS INICIAR A APLICAÇÃO COM:
+    - npm start;
