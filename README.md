@@ -43,3 +43,12 @@ Repository created to save my React course that I'm taking on Udemy;
     - npx create-react-app <nome> 
 - TEMOS UMA NOVA APLICAÇÃO SENDO GERADA, PODEMOS INICIAR A APLICAÇÃO COM:
     - npm start;
+
+======================== ESTRUTURA BASE ===========================
+
+- HÁ ALGUMAS PASTAS E ARQUIVOS CHAVES PARA O DESENVOLVIMENTO EM REACT;
+    - node_modules: ONDE AS DEPENDENCIAS DO PROJETO FICAM;
+    - public: ASSETS ESTÁTICOS E HTML DE INICIALIZAÇÃO;
+    - src: ONDE VAMOS PROGAMAR AS NOSSAS APPS;
+    - src/index.js: ARQUIVO DE INICIALIZAÇÃO DO REACT;
+    - src/App.js: COMPONENTE PRINCIPAL DA APLICAÇÃO;
