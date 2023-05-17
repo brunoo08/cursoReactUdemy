@@ -69,3 +69,11 @@ Rpository reference: https://github.com/matheusbattisti/curso_react
 - GERALMENTE SÃO NOMEADOS COM A camel case: FirstComponent.js;
 - NO ARQUIVO, CRIAMOS UMA FUNÇÃO, QUE CONTÉM O CÓDIGO DESTE COMPONENTE;
 - E TAMBÉM PRECISAMOS EXPORTAR ESTA FUNÇÃO PARA REUTILIZA-LA;
+
+======================== IMPORTANDO COMPONENTES ===================
+
+- A IMPORTAÇÃO É A MANEIRA QUE TEMOS DE REUTILIZAR O COMPONENTE;
+- UTILIZAMOS A SINTAXE: 
+    - import X from './components/X'
+- PARA COLOCAR O COMPONENTE IMPORTADO EM OUTRO COMPONENTE, PRECISAMOS COLOCA-LO EM FORMA DE TAG
+    - <FirstComponent/>
