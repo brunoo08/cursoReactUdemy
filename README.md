@@ -76,4 +76,13 @@ Rpository reference: https://github.com/matheusbattisti/curso_react
 - UTILIZAMOS A SINTAXE: 
     - import X from './components/X'
 - PARA COLOCAR O COMPONENTE IMPORTADO EM OUTRO COMPONENTE, PRECISAMOS COLOCA-LO EM FORMA DE TAG
-    - <FirstComponent/>
+    - < FirstComponent / > (sem espaços)
+
+======================== JSX ======================================
+
+- jsx É O HTML DO REACT;
+- ONDE VAMOS DECLARAR AS TAGS DE HMTL QUE SERÃO EXIBIDAS NO NAVEGADOR;
+- FICAM NO return DO COMPONENTE;
+- TEMOS ALGUMAS DIFERENÇAS DO HTML, POR EXEMPLO: class SERÁ className;
+- ISSO SE DA PELAS INSTRUÇÕES SEMELHANTES DE JS E HTML, POIS O jsx É JAVASCRIPT, ENTÃO ALGUMAS TERÃO NOMES DIFERENTES;
+- O jsx PODE TER APENAS UM ELEMENTO PAI;
