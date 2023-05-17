@@ -86,3 +86,10 @@ Rpository reference: https://github.com/matheusbattisti/curso_react
 - TEMOS ALGUMAS DIFERENÇAS DO HTML, POR EXEMPLO: class SERÁ className;
 - ISSO SE DA PELAS INSTRUÇÕES SEMELHANTES DE JS E HTML, POIS O jsx É JAVASCRIPT, ENTÃO ALGUMAS TERÃO NOMES DIFERENTES;
 - O jsx PODE TER APENAS UM ELEMENTO PAI;
+
+======================== COMENTARIOS NO COMPONENTE ================
+
+- PODEMOS INSERIR COMENTARIOS DE DUAS MANEIRAS:
+    - NA FUNÇÃO: //algum comentario
+    - NO JSX: {/*algum comentario*/}
+- AS CHAVES NOS PERMITEM executar sentenças em JavaScript;
