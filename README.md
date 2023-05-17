@@ -62,3 +62,10 @@ Rpository reference: https://github.com/matheusbattisti/curso_react
     - file > settings > extensions > procurar por Emmet
 - LÁ, VAMOS INCLUIR A LINGUAGEM: 
     - javascript - javascriptreact
+
+======================== CRIANDO COMPONENTES ======================
+
+- NA MAIORIA DOS PROJETOS OS COMPONENTES FICAM EM UMA PASTA CHAMADA components, QUE DEVEMOS CRIAR;
+- GERALMENTE SÃO NOMEADOS COM A camel case: FirstComponent.js;
+- NO ARQUIVO, CRIAMOS UMA FUNÇÃO, QUE CONTÉM O CÓDIGO DESTE COMPONENTE;
+- E TAMBÉM PRECISAMOS EXPORTAR ESTA FUNÇÃO PARA REUTILIZA-LA;
