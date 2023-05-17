@@ -180,3 +180,9 @@ Rpository reference: https://github.com/matheusbattisti/curso_react
     - SE TEMOS DUAS PROPS: name e age;
     - PODEMOS FAZER ASSIM: function MyComponent({name, age})
     - ASSIM, NAO PRECISAMOS USAR props.algumacoisa;
+
+======================== REUTILIZAÇÃO DE COMPONENTES ==============
+
+- COM props A REUTILIZAÇÃO DE COMPONENTES COMEÇA A FAZER MUITO SENTIDO;
+- SE TEMOS OS DADOS DE 1000 CARROS POR EXEMPLO, PODEMOS REAPROVEITAR O NOSSO CarDetails 1000 vezes;
+- ISSO TORNA NOSSO CODIGO MAIS PADRONIZADO, FACILITANDO A MANUTENÇÃO;
