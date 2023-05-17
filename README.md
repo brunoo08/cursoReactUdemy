@@ -93,3 +93,9 @@ Rpository reference: https://github.com/matheusbattisti/curso_react
     - NA FUNÇÃO: //algum comentario
     - NO JSX: {/*algum comentario*/}
 - AS CHAVES NOS PERMITEM executar sentenças em JavaScript;
+
+======================== TEMPLATE EXPRESSIONS =====================
+
+- template expressions É O RECURSO QUE NOS PERMITE EXECUTAR js NO jsx E TAMBÉM INTERPOLAR VARIAVEIS;
+- A SINTAXE É: {algumCódigoEmJS}
+- TUDO QUE ESTA ENTRE CHAVES É PROCESSADO EM JAVASCRIPT E NOS RETORNA UM RESULTADO;
