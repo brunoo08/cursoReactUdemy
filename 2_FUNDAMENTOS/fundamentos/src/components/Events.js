@@ -4,6 +4,15 @@ const Events = () => {
         console.log(e)
     }
 
+    const renderSomething = (x) => {
+        if(x){
+            return <h1>Renderizando isso</h1>
+        }
+        else{
+            return <h1>Renderizando isso tambem</h1>
+        }
+    }
+
     return(
         <div>
             <div>
@@ -17,6 +26,8 @@ const Events = () => {
                     }
                 }}>Clique aqui, please</button>
             </div>
+            {renderSomething(true)}
+            {renderSomething(false)}
         </div>
     )
 }
