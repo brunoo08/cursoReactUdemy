@@ -20,6 +20,10 @@ const MyForm = ({user}) => {
     console.log("ENVIANDO FORM");
     console.log(name);
     console.log(email);
+
+    // AULA 7 - LIMPAR FORMULARIO
+    setName("");
+    setEmail("");
   }
 
   return (
