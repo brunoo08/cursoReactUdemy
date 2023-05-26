@@ -1,0 +1,29 @@
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+ul li {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+/* CSS for the product name */
+ul li h3.name {
+    font-weight: bold;
+}
+
+/* CSS for the product price */
+ul li .price {
+    color: #888;
+}
