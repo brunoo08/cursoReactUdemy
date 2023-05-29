@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom" 
 import {useFetch} from '../hooks/useFetch'
+import {Link} from 'react-router-dom'
 
 const Produtos = () => {
     const { id } = useParams();
@@ -17,6 +18,8 @@ const Produtos = () => {
             <div>
                 <h2>{product.name}</h2>
                 <p>R${product.price}</p>
+                {/* 6 - NESTED ROUTE */}
+                <Link to={`/products/${product.id}/info`}>Mais informações</Link>
             </div>
         )}
         </>
